@@ -455,5 +455,3 @@ while True:
         print("Tot ziens!")
         print()
         break
-
-# tauva forever
